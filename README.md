@@ -1,14 +1,47 @@
-# mysql-projects
-SQL Practice and Projects for Learning and Career Growth  This repository contains my SQL learning journey, including solved queries, interview problems, and mini-projects like Employee Management System. It showcases my understanding of SQL concepts such as table creation, joins, subqueries, aggregation, views, and more.
-# SQL Practice Projects
+🎓 Student Marks Analysis (SQL Project)
 
-This repository contains solved SQL queries and practice projects.
+This project performs basic SQL operations on a student table within a college database.
 
-## Contents
-* `student_marks-analyse.sql`-to find students who score more than average
-* `employee_management.sql` – Full database project with tables, joins, and queries
-* `second_highest_salary.sql` – Query to find the second highest salary
+📋 Features
 
-## Author
+Create a student table
 
-Rajni Kumari | BCA Student
+Insert sample student records
+
+Calculate average marks
+
+Find students who scored above average
+
+🛠️ Technologies Used
+
+MySQL
+
+📂 File Structure
+
+create_tables.sql – Creates the database and table
+
+insert_data.sql – Inserts sample data
+
+queries.sql – Contains analytical SQL queries
+
+🚀 How to Run
+
+Open your MySQL client (Workbench, phpMyAdmin, etc.)
+
+Run create_tables.sql
+
+Run insert_data.sql
+
+Run queries.sql to analyze student marks
+
+📈 Sample Output
+
+Average marks: ~81
+
+Above average scorers: BHUMIKA, CHETAN, DHRVA, ENAMUEL, EVE, CHARLIE
+
+🙋‍♂️ Author
+
+Name: Rajni kumari
+
+GitHub: rj7404kr
