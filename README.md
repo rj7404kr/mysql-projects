@@ -5,7 +5,7 @@ SQL Practice and Projects for Learning and Career Growth  This repository contai
 This repository contains solved SQL queries and practice projects.
 
 ## Contents
-
+* `student_marks-analyse.sql`-to find students who score more than average
 * `employee_management.sql` – Full database project with tables, joins, and queries
 * `second_highest_salary.sql` – Query to find the second highest salary
 
